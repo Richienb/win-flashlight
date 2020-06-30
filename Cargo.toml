@@ -1,0 +1,8 @@
+[package]
+name = "win-flashlight"
+version = "0.0.0"
+authors = ["Richie Bendall <richiebendall@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+winrt = "0.7"
